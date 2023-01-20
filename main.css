@@ -1,0 +1,89 @@
+
+.profile{
+    /* display: grid; */
+    /* background-color: rgba(107, 113, 119, 0.308); */
+    /* padding-left: 50px;
+    padding-right: 80px; */
+    margin-top: 70px;
+    /* margin-bottom: 70px; */
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgba(0, 0, 0, 0.651);
+    
+}
+.name{
+  /* margin-left: 0px; */
+  /* background-color: rgba(107, 113, 119, 0.308); */
+    font-size: 85px;
+}
+.nameTable{
+  background-color: rgba(107, 113, 119, 0.308);
+  margin-left: 10px;
+}
+
+body{
+  font-size:
+  25px;margin: 0px;
+  padding: 0px;
+}
+
+table{
+  width: 1490px;
+  table-layout: fixed;
+  border-color: black;
+  text-align: left;
+  align-items: flex-start;
+  margin: 10px;
+}
+
+.trd{
+  font-size: 25px;
+}
+
+tr{
+  font-size: 25px;
+}
+
+td{
+    padding-left: 50px;
+  }
+
+sup{
+    font-size: 25px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+.border-none {
+    border-collapse: collapse;
+    border: none;
+  }
+  
+  .border-none td {
+    border: 2px solid black;
+  }
+  
+  .border-none tr:first-child td {
+    border-top: none;
+  }
+  
+  .border-none tr:last-child td {
+    border-bottom: none;
+  }
+  
+  .border-none tr td:first-child {
+    border-left: none;
+  }
+  
+  .border-none tr td:last-child {
+    border-right: none;
+  }
+
+  .color1{
+    background-color:white;
+  }
+  a{
+    text-decoration: none;
+    color: black;
+  }
+  .heading_color{
+    background-color: rgba(107, 113, 119, 0.308);
+  }
